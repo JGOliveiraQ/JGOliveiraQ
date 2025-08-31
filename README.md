@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Guilherme
 
-<!--
-**JGOliveiraQ/JGOliveiraQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**.  
+🚀 Entrei no curso através do programa **Embarque Digital**.  
+💻 Tenho conhecimentos básicos em **Python** e **JavaScript**, sempre buscando aprender e evoluir.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo
+- Lógica de programação e boas práticas de código  
+- Desenvolvimento web com JavaScript  
+- Automação e scripts com Python  
+
+---
+
+## 🎯 Objetivos
+- Aprofundar meus conhecimentos em desenvolvimento back-end e front-end  
+- Contribuir em projetos open source  
+- Construir um portfólio sólido no GitHub  
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
+- [E-mail](mailto:jgoliveiraqm@gmail.com)  
+
+---
+
+⭐ Sempre aberto a aprender e compartilhar conhecimento!
