@@ -8,22 +8,19 @@
 
 ## 🌱 O que estou aprendendo
 - Lógica de programação e boas práticas de código  
-- Desenvolvimento web com JavaScript  
+- Desenvolvimento web com JavaScript e Python
 - Automação e scripts com Python  
 
 ---
 
 ## 🎯 Objetivos
-- Aprofundar meus conhecimentos em desenvolvimento back-end e front-end  
-- Contribuir em projetos open source  
-- Construir um portfólio sólido no GitHub  
-
+- Aprofundar meus conhecimentos em desenvolvimento front-end
+- Contribuir em projetos open source    
 ---
 
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
+## 📞 Rede Sociais [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
 - [E-mail](mailto:jgoliveiraqm@gmail.com)  
 
 ---
 
-⭐ Sempre aberto a aprender e compartilhar conhecimento!
+⭐ Sempre buscando inovar.
