@@ -18,7 +18,8 @@
 - Contribuir em projetos open source    
 ---
 
-## 📞 Rede Sociais [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
+## 📞 Rede Sociais
+- [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
 - [E-mail](mailto:jgoliveiraqm@gmail.com)  
 
 ---
