@@ -21,7 +21,7 @@
 ## 📞 Rede Sociais
 - [LinkedIn](https://www.linkedin.com/in/joaoguilhermeo/)
 - [E-mail](mailto:jgoliveiraqm@gmail.com)  
-- [Portifólio Digital] (https://www.figma.com/proto/UgqDgsUNBSdk0acyVQZChs?node-id=11-21&t=lopWYopycNDe8aA7-6)
+- [Portifólio Digital](https://www.figma.com/proto/UgqDgsUNBSdk0acyVQZChs?node-id=11-21&t=lopWYopycNDe8aA7-6)
 ---
 
 ⭐ Sempre buscando inovar.
