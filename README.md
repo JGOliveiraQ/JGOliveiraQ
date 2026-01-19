@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**.  
 🚀 Entrei no curso através do programa **Embarque Digital**.  
-💻 Tenho conhecimentos básicos em **Python** e **JavaScript**, sempre buscando aprender e evoluir.  
+💻 Tenho conhecimentos básicos em **Python** e **JavaScript**. 
 
 ---
 
