@@ -1,3 +1,6 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ⚠️  SUBSTITUA "jgoliveiraqm" pelo seu username real do GitHub  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=João%20Guilherme&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&descSize=17&descColor=a78bfa&descAlignY=62&animation=fadeIn"/>
@@ -86,54 +89,104 @@ fun_fact:   "18 anos, 2 graduações, 1 estágio e infinita vontade de inovar �
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projetos Reais — O que eu já construí
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jgoliveiraqm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoliveiraqm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
-</div>
+> Sem estar formado. Sem esperar permissão. Só código que funciona em produção.
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jgoliveiraqm&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jgoliveiraqm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
----
-
-## 🚀 Projeto em Destaque
-
-<div align="center">
-
-<a href="https://github.com/jgoliveiraqm/bigu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgoliveiraqm&repo=bigu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="Bigu"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
+<!-- PROJETO 1: INSTAGRAM MONITOR -->
+<table>
   <tr>
-    <td align="center" width="680">
-      <h3>🚌 Bigu — Mobilidade Urbana Inteligente</h3>
+    <td width="58" align="center">📊</td>
+    <td>
+      <h3>Instagram Monitor — Automação + Dashboard de Métricas</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <p>
-        Solução tecnológica voltada à mobilidade urbana da <strong>Região Metropolitana do Recife</strong>.
-        Atuei desde a visão estratégica até a concepção da identidade visual e arquitetura tecnológica —
-        conectando tecnologia e pessoas para transformar o transporte público.
+        Sistema completo para monitoramento automático de perfis do Instagram de clientes de uma agência de marketing.
+        Coleta seguidores e posts diariamente, processa crescimento semanal/mensal e exibe tudo num dashboard web com login individualizado por cliente.
       </p>
+      <p><strong>Destaques técnicos:</strong></p>
+      <ul>
+        <li>Scraping autenticado da API interna do Instagram com sessão persistida</li>
+        <li>Roteamento de tráfego pela <strong>rede Tor (SOCKS5)</strong> com rotação automática de circuito entre requisições — evita banimento de IP</li>
+        <li><strong>GitHub Actions CI/CD</strong> agendado diariamente às 11h — roda sem intervenção humana</li>
+        <li>Credenciais protegidas como <strong>GitHub Secrets</strong>, restauradas em runtime no pipeline</li>
+        <li>Integração com <strong>Google Sheets API</strong> como banco de dados de séries temporais</li>
+        <li>Flask com multi-tenant: cada cliente só acessa seus próprios dados; admin vê todos</li>
+        <li>API REST com análise de crescimento (7d / 30d) e detecção de tendência (up/down/stable)</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-Agendado%20Diariamente-a78bfa?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJETO 2: GMB REVIEWS AI -->
+<table>
+  <tr>
+    <td width="58" align="center">🤖</td>
+    <td>
+      <h3>GMB Reviews AI — Resposta Automática de Avaliações com IA</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>
+        Plataforma fullstack que conecta ao <strong>Google My Business API</strong> para gerenciar avaliações de clientes
+        e gera respostas profissionais e empáticas automaticamente usando IA — sem custo de API externa, rodando um LLM local.
+      </p>
+      <p><strong>Destaques técnicos:</strong></p>
+      <ul>
+        <li>Autenticação via <strong>Google OAuth2</strong> com escopo <code>business.manage</code></li>
+        <li>Backend <strong>Node.js + Express</strong> integrado ao Google Business API</li>
+        <li>Frontend em <strong>Next.js</strong> (React + TypeScript)</li>
+        <li>IA de resposta usando <strong>Ollama (LLaMA 3)</strong> rodando localmente — zero custo de inference</li>
+        <li>Prompt engineering contextualizado com nota da avaliação + comentário do cliente</li>
+        <li>Arquitetura desacoplada com REST API separando frontend e backend</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Business_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLaMA_3-FF6B35?style=flat-square&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJETO 3: BIGU -->
+<table>
+  <tr>
+    <td width="58" align="center">🚌</td>
+    <td>
+      <h3>Bigu — App de Mobilidade Urbana do Grande Recife</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>
+        Solução de mobilidade urbana para a Região Metropolitana do Recife, apresentada como projeto acadêmico de impacto real.
+        Atuei desde o planejamento estratégico até a identidade visual e arquitetura tecnológica — transformando um problema urbano em produto digital.
+      </p>
+      <br/>
       <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-a78bfa?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Recife-PE-302b63?style=flat-square&logo=google-maps&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Recife-PE-302b63?style=flat-square"/>
     </td>
   </tr>
 </table>
