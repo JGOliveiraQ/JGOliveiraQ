@@ -37,7 +37,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" height="200" src="https://preview.redd.it/he-wants-to-teach-you-how-to-code-v0-osqy0hqd4rga1.jpg?auto=webp&s=32c64483930a4606b2caedec00a34323a55ea0ab" alt="coding gif"/>
 
 ```yaml
 name:       João Guilherme Oliveira
