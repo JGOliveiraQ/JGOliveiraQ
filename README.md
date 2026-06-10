@@ -1,9 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=200&text=JOÃO%20GUILHERME%20OLIVEIRA&fontColor=f0f0f0&fontSize=44&fontAlignY=52&desc=%2F%2F%20DEV%20%26%20TI%20·%20RECIFE%2FPE&descAlignY=73&descSize=16&descColor=b80010"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=b80010&center=true&vCenter=true&width=650&lines=Estagiário+de+TI+%40+Agência+Castelo;Estudante+de+ADS+·+Embarque+Digital;Python+%7C+JavaScript+%7C+TypeScript+%7C+Java;AI+Builder+%7C+Cybersecurity+Enthusiast;Always+learning%2C+always+evolving" alt="Typing SVG"/>
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/joaoguilhermeo/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=flat-square&logo=linkedin&logoColor=b80010"/>
