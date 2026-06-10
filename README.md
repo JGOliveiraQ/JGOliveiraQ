@@ -1,3 +1,4 @@
+# João Guilherme Oliveira
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -16,8 +17,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://bit.ly/3QejHXT" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  <a href="https://jgoliveiraq.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/jgoliveiraq" target="_blank">
@@ -242,8 +243,8 @@ fun_fact:   "18 anos, 2 graduações, 1 estágio e infinita vontade de inovar �
   <img src="https://img.shields.io/badge/💼%20Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://bit.ly/3QejHXT">
-  <img src="https://img.shields.io/badge/🎨%20Ver%20Portfólio-FF5722?style=for-the-badge" alt="Portfolio"/>
+<a href="https://jgoliveiraq.is-a.dev">
+  <img src="https://img.shields.io/badge/🌐%20Ver%20Site-000000?style=for-the-badge" alt="Site"/>
 </a>
 
 <br/><br/>
